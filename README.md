@@ -16,3 +16,17 @@
 
 ## My workstation
 
+<table>
+    <tr>
+        <td>Original<\td>
+        <td>photo<\td>
+        <td>details<\td>
+        <td>Insert details<\td>
+    <\tr>
+    <tr>
+        <td>VMWare Virtual Machine<\td>
+        <td>photo<\td>
+        <td>Details<\td>
+        <td>Insert details<\td>
+    <\tr>
+<\table>
