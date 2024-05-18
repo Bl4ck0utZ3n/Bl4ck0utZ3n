@@ -18,7 +18,9 @@
 
 <div align="center">
   <table>
-    <td><b>Original</b></td>
-    <td><b>VMWare Virtual Machine</b></td>
+    <tr>
+      <td><b>Original</b></td>
+      <td><b>VMWare Virtual Machine</b></td>
+    </tr>
   </table>
 </div>
