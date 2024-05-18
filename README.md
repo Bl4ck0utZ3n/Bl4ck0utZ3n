@@ -18,15 +18,7 @@
 
 <div align="center">
   <table>
-  <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
-</table>
+    <td><b>Original</b></td>
+    <td><b>VMWare Virtual Machine</b></td>
+  </table>
 </div>
