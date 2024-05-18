@@ -15,7 +15,4 @@
 - 🐱‍💻Pentesting Trainee
 
 ## My workstation
-|**Original**|**VMWare Machine**|
-|:--:|:--:|
-|Photo|Photo|
-|Details|Details|
+
