@@ -23,16 +23,16 @@
       <td><b>VMWare Virtual Machine</b></td>
     </tr>
     <tr>
-      <td><b>Original</b></td>
-      <td><b>VMWare Virtual Machine</b></td>
+      <td>photo</td>
+      <td>photo</td>
     </tr>
     <tr>
-      <td><b>Original</b></td>
-      <td><b>VMWare Virtual Machine</b></td>
+      <td><b>Details</b></td>
+      <td><b>Details</b></td>
     </tr>
     <tr>
-      <td><b>Original</b></td>
-      <td><b>VMWare Virtual Machine</b></td>
+      <td>lorem 15</td>
+      <td>lorem 16</td>
     </tr>
   </table>
 </div>
