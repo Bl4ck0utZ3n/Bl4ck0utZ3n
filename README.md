@@ -17,7 +17,7 @@
 ## My workstation
 
 <div align="center">
-  <table>
+  <table alaign-text="center">
     <tr>
       <td><b>Original</b></td>
       <td><b>VMWare Virtual Machine</b></td>
