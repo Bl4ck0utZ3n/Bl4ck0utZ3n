@@ -16,17 +16,17 @@
 
 ## My workstation
 
-<table>
-    <tr>
-        <td>Original<\td>
-        <td>photo<\td>
-        <td>details<\td>
-        <td>Insert details<\td>
-    <\tr>
-    <tr>
-        <td>VMWare Virtual Machine<\td>
-        <td>photo<\td>
-        <td>Details<\td>
-        <td>Insert details<\td>
-    <\tr>
-<\table>
+<div align="center">
+  <table>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+</table>
+</div>
