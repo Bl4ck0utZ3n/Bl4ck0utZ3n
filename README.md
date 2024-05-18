@@ -13,3 +13,7 @@
 - 📖Self-taught
 - 👨‍💻GSOC Cybersecurity Analyst L1
 - 🐱‍💻Pentesting Trainee
+
+## My workstation
+|VMWare|W10|
+|:--:|:--:|
