@@ -27,8 +27,8 @@
     </thead>
     <tbody>
       <tr>
-        <td align = "center"><img src="https://external-preview.redd.it/966G9BYc1I93-peoPGo1TE91r7A9L_E6Xx7I3ogumGs.png?width=640&crop=smart&auto=webp&s=08b09cb02a275c22610ca5dfbe2017575097685b" alt="Windows10" width="350" height="200"></td>
-        <td align = "center"><img src="https://i.imgur.com/8HD7T7W.gif" alt="Arch" width="350" height="200"></td>
+        <td align = "center"><img src="https://i.imgur.com/br9XCUn.gif" alt="Windows10" width="400" height="250"></td>
+        <td align = "center"><img src="https://i.imgur.com/8HD7T7W.gif" alt="Arch" width="400" height="250"></td>
       </tr>
       <tr>
         <td>
