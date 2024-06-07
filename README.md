@@ -27,8 +27,8 @@
     </thead>
     <tbody>
       <tr>
-        <td align = "center"><img src="https://i.imgur.com/br9XCUn.gif" alt="Windows10" width="400" height="250"></td>
-        <td align = "center"><img src="https://i.imgur.com/8HD7T7W.gif" alt="Arch" width="400" height="250"></td>
+        <td align = "center"><img src="https://i.imgur.com/br9XCUn.gif" alt="Windows10" width="390" height="250"></td>
+        <td align = "center"><img src="https://i.imgur.com/8HD7T7W.gif" alt="Arch" width="390" height="250"></td>
       </tr>
       <tr>
         <td>
